@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+md-toolbar, md-toolbar-row {
+    min-height: 1.5em !important;
+    height: 1.5em !important;
+}
+md-toolbar {
+    padding-left: .5em !important;
+}
+md-card {
+    padding: .5em !important;
+}
+md-card-content {
+    padding: 0 !important;
+}
